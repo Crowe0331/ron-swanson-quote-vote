@@ -7,12 +7,12 @@ A dynamic list of quotes will load. The user has the ability to vote for the quo
 https://ron-swanson-quotes.herokuapp.com/v2/quotes/100<br>
 (will display 100 quotes)
 
-### Built With:<br>
+## Built With:<br>
 create-react-app<br>
 react-bootstrap<br>
 react-redux<br>
 
-### References/Resources<br>
+## References/Resources<br>
 
 #### REST APIs with fetch<br>
 https://www.smashingmagazine.com/2020/06/rest-api-react-fetch-axios/
