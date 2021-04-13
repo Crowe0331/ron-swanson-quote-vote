@@ -1,4 +1,4 @@
-#Ron Swanson Quote Voter<br>
+# Ron Swanson Quote Voter<br>
 <br>
 A dynamic list of quotes will load. The user has the ability to vote for the quotes generated. A vote tally for the individual quotes will be calculated along-side the quote, utilizing the thumbs-up and thumbs-down buttons. The header contains the Total Vote tally. This is the total number of positive and negative votes. In addition, the header contains a search bar that enables the user to search for their favorite Ron Swanson quote. The vote data is stored locally, and does not store the voting data. Upon refreshing the page, a new set of quotes will be generated in a random order, and a new vote count will be calculated.
 
