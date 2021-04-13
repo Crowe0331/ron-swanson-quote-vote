@@ -1,0 +1,19 @@
+.row {
+    width:auto;
+    height: 40px;
+}
+
+.icon {
+    height: 100px;
+}
+
+.quote-data {
+    max-width: 1000px;
+    position: relative;
+}
+
+.count {
+    justify-content: center;
+    padding-top: 6px;
+}
+

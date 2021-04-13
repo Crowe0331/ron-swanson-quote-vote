@@ -1,0 +1,22 @@
+.header {
+    border: 2px solid black;
+    
+}
+
+.title-bold {
+    float: left;
+    margin-left: 5px;
+}
+
+.title-italicized {
+    float: left;
+    margin-left: 20px;
+}
+
+.total-votes {
+    justify-content: end;
+}
+
+.search-button {
+    background-color: black;
+}
